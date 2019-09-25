@@ -1,11 +1,11 @@
 -- Replace DB_NAME and TABLE_NAME with database/table name
-DROP DATABASE IF EXISTS `DB_NAME`;
+DROP DATABASE IF EXISTS burger_db;
 
-CREATE DATABASE `DB_NAME`;
+CREATE DATABASE burger_db;
 
-USE `DB_NAME`;
+USE burger_db;
 
-CREATE TABLE `TABLE_NAME` (
+CREATE TABLE burgers (
     id INT NOT NULL AUTO_INCREMENT,
     PRIMARY KEY(id)
 );

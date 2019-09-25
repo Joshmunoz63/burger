@@ -1,5 +1,5 @@
 {
-  "name": "MVC-Node-App-Template",
+  "name": "mvc-node-app-template",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Andrew Brooking",
-  "license": "Public Domain",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshmunoz63/burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joshmunoz63/burger/issues"
+  },
+  "homepage": "https://github.com/Joshmunoz63/burger#readme"
 }
