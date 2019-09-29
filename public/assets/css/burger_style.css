@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+  }
+  
+  /* .jumbotron {
+    top: 0;
+    max-height: 50vh;
+  } */
+  
+  #logo-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+  }
+  
+  label {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+  }
+  
+  /* input element for burger name */
+  #bn {
+    padding: 1rem;
+    margin: 1rem;
+  }
+  /*
+  /* Split the screen in half
+  .split {
+    height: 50%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    overflow-x: hidden;
+    padding-top: 20px;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  /* Control the left side 
+  .left {
+    left: 0;
+    background-color: rgb(38, 209, 52);
+  }
+  /* Control the right side 
+  .right {
+    right: 0;
+    background-color: rgb(197, 70, 70);
+  }
+  */
+  
+  .burger-header {
+    text-align: center;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 0.75rem;
+  }
+  
+  .devour-btn {
+    margin-left: 1rem;
+  }
